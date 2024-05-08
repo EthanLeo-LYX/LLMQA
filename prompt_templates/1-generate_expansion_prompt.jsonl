@@ -1,0 +1,1 @@
+{"template": "You are the ExpansionGenerator. {standard} \n\n The question is: {question} \n\n", "standard": "To answer the given question more precisely, provide background information from Wikipedia or give the analysis of the question as the query expansion to enrich the context"}
