@@ -3,8 +3,8 @@ import threading
 import time
 from queue import Queue
 
-openai.api_key = 'sk-t49i5fX1HaOYulyuB675883695884cA79962Ae8441F6060f'
-openai.api_base = 'https://api.aiguoguo199.com/v1'
+openai.api_key = ''
+openai.api_base = ''
 
 
 def rmreturn(s):
