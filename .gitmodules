@@ -1,0 +1,6 @@
+[submodule "DPR"]
+	path = DPR
+	url = https://github.com/facebookresearch/DPR
+[submodule "FiD"]
+	path = FiD
+	url = https://github.com/facebookresearch/FiD
